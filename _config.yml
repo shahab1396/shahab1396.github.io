@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shahab Shamshirband"
+title                    : "Shahab S. Band"
 title_separator          : "-"
-name                     : &name "Shahab Shamshirband"
-description              : &description "personal description"
+name                     : &name "Shahab S. Band"
+description              : &description "Researcher in AI/ML"
 url                      : "https://shahab1396.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shahab1396/shahab1396.github.io/"
