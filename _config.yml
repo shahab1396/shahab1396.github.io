@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shahab S. Band"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Researcher in AI/ML"
   location         : "Location"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shahab+Shamshirband"
-  googlescholar    : "https://scholar.google.com.my/citations?hl=en&user=yPnZw3cAAAAJ"
+  googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-TW&user=yPnZw3cAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Shahab-Shamshirband"
   uri              :
